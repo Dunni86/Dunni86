@@ -33,7 +33,4 @@ I'm a big fan of **DIY projects**! I enjoy building, fixing, and creating things
 ## 📫 How to Reach Me
 
 - **Email:** [ibidunnidedewo@gmail.com](mailto:ibidunnidedewo@gmail.com)
-
-- Thanks for visiting my profile! Feel free to connect with me as I continue my journey into cybersecurity, Governance, Risk, and Compliance. 🚀
-
 Thanks for visiting my profile! Feel free to connect with me as I continue my journey into **cybersecurity, Governance, Risk, and Compliance**. 🚀
