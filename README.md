@@ -1,44 +1,39 @@
-Hi, I’m Ibidunni Dedewo 👋
+# Hi, I'm Ibidunni Dedewo! 👋
 
-I’m based in Ontario, Canada, with a background in customer service and a growing interest in Governance, Risk and Compliance (GRC), cybersecurity, and IT risk management. I’m passionate about continuous learning and developing the technical and analytical skills needed to build a career in GRC.
+I'm an aspiring **Governance, Risk, and Compliance (GRC) Analyst** based in London, Ontario, Canada. I'm passionate about cybersecurity, risk management, and helping organizations protect their information and systems. I'm continuously developing my technical and analytical skills as I work toward a career in GRC.
 
-🌱 What I’m Currently Learning
+I studied at **Bowen University, Iwo, Osun State, Nigeria**, and the **University of Ibadan, Oyo State, Nigeria**. I'm currently building my knowledge of networking, cybersecurity, and GRC practices.
 
-Cisco Networking
-IP Addressing and Subnetting
-Cybersecurity Fundamentals
-IT Risk Management and Compliance
-🛠️ Skills & Tools
+## 📚 What I'm Currently Learning
 
-Areas of Interest
+- **Cisco Networking** — Understanding networking concepts and configurations.
+- **IP Addressing and Subnetting** — Learning how IP networks are structured and managed.
+- **Governance, Risk, and Compliance (GRC)** — Exploring risk assessment, security controls, and compliance frameworks.
+- **Cybersecurity Fundamentals** — Developing my understanding of network security and practical security tools.
 
-Governance, Risk and Compliance (GRC)
-Customer Service
-Cybersecurity
-Networking Fundamentals
-Tools I’m Exploring
+## 🛠️ My Skills and Tools
 
-Cisco Packet Tracer
-Kali Linux
-🎯 My Goals
+- **Networking:** Cisco networking fundamentals, IP addressing, and subnetting.
+- **GRC:** Governance, risk management, and compliance fundamentals.
+- **Tools:** Cisco Packet Tracer and Kali Linux.
+- **Continuous Learning:** Hands-on practice, troubleshooting, and exploring cybersecurity concepts.
 
-Become a Governance, Risk and Compliance (GRC) Analyst.
-Earn the CRISC (Certified in Risk and Information Systems Control) certification.
-Build hands-on experience through practical networking and cybersecurity projects.
-Continue developing my knowledge of IT risk, information security, and regulatory compliance.
-🎓 Education
+## 🎯 My Goals
 
-Bowen University, Iwo, Osun State, Nigeria
-University of Ibadan, Ibadan, Oyo State, Nigeria
-😄 Fun Fact
+- Become a skilled **GRC Analyst**.
+- Earn the **Certified in Risk and Information Systems Control (CRISC)** certification.
+- Strengthen my knowledge of cybersecurity risks, risk assessments, and security controls.
+- Build practical projects that demonstrate my networking and GRC skills.
+- Continue learning and growing in the cybersecurity field.
 
-I enjoy DIY projects in my downtime! I love exploring creative ideas, learning new things, and finding practical ways to solve problems.
+## 💡 Fun Fact
 
-📫 Let’s Connect
+I'm a big fan of **DIY projects**! I enjoy building, fixing, and creating things in my downtime. I love the creativity and problem-solving that come with making something myself.
 
-Location: Ontario, Canada
-GitHub: Explore my repositories⁠
-I’m always open to learning, collaborating, and connecting with others who share an interest in GRC, cybersecurity, networking, and technology.
+## 📫 How to Reach Me
 
-Thanks for stopping by my profile! 😊
+- **Email:** [ibidunnidedewo@gmail.com](mailto:ibidunnidedewo@gmail.com)
 
+- Thanks for visiting my profile! Feel free to connect with me as I continue my journey into cybersecurity, Governance, Risk, and Compliance. 🚀
+
+Thanks for visiting my profile! Feel free to connect with me as I continue my journey into **cybersecurity, Governance, Risk, and Compliance**. 🚀
