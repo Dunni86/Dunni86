@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I’m Ibidunni Dedewo 👋
 
-<!--
-**Dunni86/Dunni86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m based in Ontario, Canada, with a background in customer service and a growing interest in Governance, Risk and Compliance (GRC), cybersecurity, and IT risk management. I’m passionate about continuous learning and developing the technical and analytical skills needed to build a career in GRC.
 
-Here are some ideas to get you started:
+🌱 What I’m Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cisco Networking
+IP Addressing and Subnetting
+Cybersecurity Fundamentals
+IT Risk Management and Compliance
+🛠️ Skills & Tools
+
+Areas of Interest
+
+Governance, Risk and Compliance (GRC)
+Customer Service
+Cybersecurity
+Networking Fundamentals
+Tools I’m Exploring
+
+Cisco Packet Tracer
+Kali Linux
+🎯 My Goals
+
+Become a Governance, Risk and Compliance (GRC) Analyst.
+Earn the CRISC (Certified in Risk and Information Systems Control) certification.
+Build hands-on experience through practical networking and cybersecurity projects.
+Continue developing my knowledge of IT risk, information security, and regulatory compliance.
+🎓 Education
+
+Bowen University, Iwo, Osun State, Nigeria
+University of Ibadan, Ibadan, Oyo State, Nigeria
+😄 Fun Fact
+
+I enjoy DIY projects in my downtime! I love exploring creative ideas, learning new things, and finding practical ways to solve problems.
+
+📫 Let’s Connect
+
+Location: Ontario, Canada
+GitHub: Explore my repositories⁠
+I’m always open to learning, collaborating, and connecting with others who share an interest in GRC, cybersecurity, networking, and technology.
+
+Thanks for stopping by my profile! 😊
+
